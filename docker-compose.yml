@@ -19,7 +19,7 @@ php:
   environment:
     APP_ENV: local
     APP_DEBUG: 'true'
-    APP_KEY: SomeRandomKey!!!
+    APP_KEY: BbCtmJLVCaC57S68QhC3sJfqeAN
     APP_LOCALE: en
     APP_FALLBACK_LOCALE: en
     DB_CONNECTION: mysql
